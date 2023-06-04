@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,Location,SubscriptionType,TotalSpending,MonthsActive,Churn
+1,Male,32,New York,Monthly,120,5,No
+2,Female,45,Los Angeles,Annual,800,12,No
+3,Male,28,Chicago,Monthly,70,3,Yes
+4,Female,50,San Francisco,Monthly,200,8,Yes
+5,Male,38,Miami,Monthly,150,6,No
+6,Female,55,Houston,Annual,1200,15,No
+7,Male,42,Dallas,Monthly,180,4,Yes
+8,Female,29,Seattle,Monthly,90,2,Yes
+9,Male,35,Boston,Monthly,100,3,No
+10,Female,48,Atlanta,Annual,1000,11,No
+11,Male,35,New York,Monthly,120,5,No
+12,Female,45,Los Angeles,Annual,800,12,No
+13,Male,28,Chicago,Monthly,70,3,Yes
+14,Female,50,San Francisco,Monthly,200,8,Yes
+15,Male,38,Miami,Monthly,150,6,No
+16,Female,55,Houston,Annual,1200,15,No
+17,Male,42,Dallas,Monthly,180,4,Yes
+18,Female,29,Seattle,Monthly,90,2,Yes
+19,Male,35,Boston,Monthly,100,3,No
+20,Female,48,Atlanta,Annual,1000,11,No
